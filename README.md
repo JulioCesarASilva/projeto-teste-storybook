@@ -4,7 +4,7 @@ Esse é o repositório de um tutorial, na qual é criado um projeto usando story
 
 ### Links Uteis
 
-##### O video foi encontrado aqui:
+##### O video usado pra criação desse repositorio, foi encontrado aqui:
 
 * [Como documentar códigos? Documentando Front End com Storybook!
 ](https://www.youtube.com/watch?v=R41_Qedrzik&ab_channel=MarioSouto-DevSoutinho) 
